@@ -1,0 +1,10 @@
+CLASSPATH
+D:\Manjula\Software\OC4jNew\j2ee\home\lib;D:\Manjula\Software\OC4jNew\j2ee\home\lib\servlet.jar;
+
+PATH
+C:\Program Files\Java\jdk1.5.0_15\bin;C:\jdk1.3.1_20\bin;C:\Program Files\ESTsoft\ALZip
+
+systemvariables
+CLASSPATH
+D:\Manjula\Software\OC4jNew\j2ee\home\lib;D:\Manjula\Software\OC4jNew\j2ee\home\lib\servlet.jar;
+
